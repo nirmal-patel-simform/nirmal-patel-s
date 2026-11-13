@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!-- daily.dev BOOKMARKS:START -->
+- [A collection of great resources, books, roadmap, research papers, blogs, free and open-source software, recommended websites for programmers, ML resources, and much more!](https://daily.dev/posts/QsllMVPx9?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://daily.dev/posts/9mLzdcdiE?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [No title](https://daily.dev/posts/DhsBRam9K?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [Agentic Skill Decay](https://daily.dev/posts/nZQKcHaM8?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 - [WebSocket vs SSE vs Long Polling: The Real Cost of 1,000 Events](https://daily.dev/posts/wIp1lZaWD?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
-- [Day 21/30 AWS System Design Patterns](https://daily.dev/posts/NRY1BDj8q?utm_source=rss&utm_medium=bookmarks&utm_campaign=mBzS9yGu2kYgKY4tuhxYN)
 <!-- daily.dev BOOKMARKS:END -->
 <!--
 **nirmal-patel-s/nirmal-patel-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
